@@ -199,7 +199,7 @@ Please read our [Contributing Guide](docs/CONTRIBUTING.md) before submitting.
 
 Found a security vulnerability in Vulnemon itself? Please report it responsibly:
 
-- Email: security@reddoralabs.com
+- Email: prem@reddoralabs.com
 - Do NOT open a public issue for security vulnerabilities
 
 ---
